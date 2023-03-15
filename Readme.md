@@ -1,4 +1,6 @@
-# Exploring and Visualizing Data from OOI Regional Cabled Array
+# Exploring Data from the 2015 Axial Seamount Eruption
+
+![Axial Seamount](https://s3-us-west-2.amazonaws.com/media.ooica.net/wp-content/uploads/2019/01/24183811/axial-caldera-overview-image.jpg) 
 -------------
 Laura Hanna  
 Western Washington University  
@@ -7,7 +9,7 @@ Winter 2023
 ------------- 
 ## Goals
 
-My goal is to explore and visualize regional cabled array data from the Ocean Observatories Initiative database. I will be looking at CTD data and vent fluid data from around the Axial Seamount.
+My goal is to explore and visualize regional cabled array data from the Ocean Observatories Initiative database. The Axial Seamount erupted on April 24th 2015 and I am interested in visualizing the change in seafloor depth and pressure during the eruption.
 
 -------------
 ## Motivation
@@ -22,12 +24,12 @@ I will be using data sets from the Ocean Observatories Initiative database. The 
 -------------
 ## Analysis Methods
 
-I will make plots of CTD and vent fluid data. I will perform some data clean-up and need to convert to datetime. I will run linear regressions as well.
+I will make plots of seafloor depth and pressure of the Central Caldera and the Eastern Caldera. I will perform some data clean-up and need to convert to datetime.
 
 ------------
 ## Conclusions
 
-Conclusions are not available at this time.
+The photo under the title shows the locations of the Central Caldera and the Eastern Caldera.The Central Caldera had a mean seafloor depth change of about -2 meters while the Eastern Caldera's mean seafloor depth changed by about -1 meters. The Central Caldera's mean seafloor pressure increased by about 3 pounds per square inch absolute (psia) after the eruption. The Eastern Caldera's mean seafloor pressure increased by about 1.5 psia. Between these two measurements, it seems that the Eastern Caldera only changes half as much as the Central Caldera.
 
 -----------
 ## References
